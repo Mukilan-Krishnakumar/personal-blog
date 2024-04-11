@@ -2,6 +2,7 @@ baseURL: /
 languageCode: en-us
 title: Mukilan Krishnakumar
 theme: ["PaperMod"]
+canonifyURLs: true
 
 enableEmoji: true
 
