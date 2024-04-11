@@ -4,7 +4,7 @@ date: 2023-09-10T12:45:28+05:30
 tags: ["Book Review"]
 draft: false
 ---
-![1](/docs/millionmiles/1.png)
+![1](/static/docs/millionmiles/1.png)
 After reading “A Million Miles in a Thousand Years” by Donald Miller, I find myself deeply moved.
 
 I am not going to summarize the book or its contents, I can never do proper justice to this amazing book. 
