@@ -1,0 +1,40 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Mukilan Krishnakumar
+theme: ["PaperMod"]
+
+enableEmoji: true
+
+params:
+  author: Mukilan Krishnakumar
+  homeInfoParams:
+    Title: "My Blog"
+    Content: >
+      Welcome to my space on the Internet 🚀
+
+      - That is what it is to be human, To make yourself more than you are.
+
+  socialIcons:
+    - name: Github
+      url: "https://github.com/Mukilan-Krishnakumar"
+    - name: Youtube
+      url: "https://www.youtube.com/@mukilankrishnakumar8973"
+
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
